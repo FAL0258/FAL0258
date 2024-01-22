@@ -1,10 +1,10 @@
 # About Me
 
-Hello, I'm Falcon! Currently studying at The Chinese University of Hong Kong.
+Hello, I'm Falcon! Currently studying Computer Engineering at The Chinese University of Hong Kong.
 
 * Interested Field:
-  * Machine Learning
-  * Web Dev
+  * Statistics
+  * Any Programming things
 
 * Hobbies: 
   * Learning new and challenging stuff
@@ -18,4 +18,4 @@ Hello, I'm Falcon! Currently studying at The Chinese University of Hong Kong.
  </a>
 </p>
 
-<!-- Last updated: 25 Jul 2023--/>
+<!-- Last updated: 22 Jan 2024--/>
